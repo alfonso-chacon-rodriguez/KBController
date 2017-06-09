@@ -1,0 +1,14 @@
+   git clone https://github.com/ucb-bar/chisel-template.git KBController
+  cd KBController/
+  ls
+  rm -rf .git
+  git init
+  git add .gitignore *
+   git config --global user.name "alfonso-chacon-rodriguez"
+  git commit -m  'Inicio KBController'
+//Aca creamos el repositorio en GItHub y conseguimos la direccion
+  git remote add origin https://github.com/alfonso-chacon-rodriguez/KBController.git
+  git push -u origin master
+
+
+

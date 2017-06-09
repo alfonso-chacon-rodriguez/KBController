@@ -1,4 +1,4 @@
-name := "chisel-module-template"
+name := "KBController"
 
 version := "1.0"
 
